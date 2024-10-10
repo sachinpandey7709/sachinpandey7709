@@ -6,6 +6,7 @@
 
 <h3 align="left">EDUCATION :</h3>
 - 🌱 I’ have completed Diploma in Civil Engineering from Six Sigma Institute of Technology & Science (SSITS).
+
 - 🌱 I’m Pursuing Btech in Computer Science and Engineering from College of Engineering Roorkee (COER).
 
 - ⚡ Fun fact **I think I am funny**
