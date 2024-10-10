@@ -4,7 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinpandey7709" alt="sachinpandey7709" /></a> </p>
 
-- 🌱 I’m Pursuing Btech in Computer Science and Engineering **Cybersecurity Courses,etc**
+EDUCATION :
+- 🌱 I’ have completed Diploma in Civil Engineering from Six Sigma Institute of Technology & Science (SSITS).
+- 🌱 I’m Pursuing Btech in Computer Science and Engineering from College of Engineering Roorkee (COER).
 
 - ⚡ Fun fact **I think I am funny**
 
