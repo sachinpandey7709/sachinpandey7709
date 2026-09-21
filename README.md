@@ -1,4 +1,4 @@
-<h1 align="center">⚡ TECHCHIP ⚡</h1>
+<h1 align="center">⚡ SACHIN ⚡</h1>
 <h3 align="center">Cybersecurity • WiFi Research • Raspberry Pi • Linux • AI Tools</h3>
 
 <p align="center">
