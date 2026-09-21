@@ -28,22 +28,6 @@ AI tools online...
 - 🤖 AI + Security Automation
 - ⚙️ Bash / Python scripting
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sachin pandey&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin&theme=radical" />
-</p>
-
----
-
-
 ## ⚙️ Tech Stack
 
 <p align="center">
