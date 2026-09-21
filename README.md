@@ -12,7 +12,7 @@
 ---
 
 ```bash
-root@techchip:~# boot
+root@sachin:~# boot
 Loading security modules...
 WiFi toolkit ready...
 Linux initialized...
@@ -33,12 +33,12 @@ AI tools online...
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=techchipnet&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=techchipnet&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sachin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techchipnet&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin&theme=radical" />
 </p>
 
 ---
@@ -67,13 +67,13 @@ AI tools online...
 ## 🏴‍☠️ Terminal Zone
 
 ```bash
-root@techchip:~# whoami
-TechChip | Security Researcher
+root@sachin:~# whoami
+Sachin | Security Researcher
 
-root@techchip:~# ls
+root@sachin:~# ls
 WiFi  Linux  AI  RaspberryPi  ESP32  Security
 
-root@techchip:~# status
+root@sachin:~# status
 Building offensive & defensive tools...
 ```
 
