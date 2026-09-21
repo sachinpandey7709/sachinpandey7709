@@ -31,7 +31,7 @@ AI tools online...
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,c,cpp,git,github,docker,vscode,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode,raspberrypi" />
 </p>
 
 ---
