@@ -66,10 +66,10 @@ Building offensive & defensive tools...
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/techchipnet">
+  <a href="https://github.com/sachinpandey7709/sachinpandey7709/">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.techchip.net">
+  <a href="https://react-portfolio-eta-beige.vercel.app/">
     <img src="https://img.shields.io/badge/Website-red?style=for-the-badge"/>
   </a>
 </p>
